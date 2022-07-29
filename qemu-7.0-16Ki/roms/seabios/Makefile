@@ -1,0 +1,1 @@
+/home/yecanming/download/qemu-7.0.0/roms/seabios/Makefile
